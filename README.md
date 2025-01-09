@@ -1,1 +1,1 @@
-This repository contains the code for fine-tuning the LED (Longformer Encoder-Decoder) model for abstractive summarization tasks. The LED model is particularly suited for handling long documents, making it ideal for summarization tasks that involve lengthy inputs.
+
